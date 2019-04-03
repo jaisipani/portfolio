@@ -1,0 +1,2 @@
+Overflow : restricct using the property to its childern
+target : blank // to open the <a> to a new webpage
